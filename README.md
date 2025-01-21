@@ -15,7 +15,7 @@
 O projeto consiste na criação de um artigo utilizando as ferramentas de IA ChatGpt e Lexica IA. O ChatGpt foi utilizado para a criação da estrutura textual já o Lexica IA deveria ter sido utilizado para a criação da Imagem de capa. Entretanto, não foi possível utilizar a plataforma.
 
 ## Assunto: 
-Bancos de dados relacionais
+Bancos de dados relacional
 ## Título chamativo:
 Banco de Dados Relacionais: O Pilar da Gestão de Informações Modernas
 ## Imagem da capa chamativa:
@@ -36,6 +36,7 @@ Comporte-se como um escritor de artigos tech desenvolvedor DBA, escreva o artigo
 - Comporte-se como um escritor de artigos tech desenvolvedor DBA, escreva o artigo atendendo as regras abaixo.
 
 - {Regras}
+- > no máximo 3 blocos por explicação
 - > no máximo 5 linhas por blocos de explicação
 - > me explique de maneira informal como se eu fosse um pré-universitário.
 
