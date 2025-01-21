@@ -46,8 +46,8 @@ Comporte-se como um escritor de artigos tech desenvolvedor DBA, escreva o artigo
 
 ## Acesse o Projeto
 
-Você pode acessar o projeto clicando [aqui](https://github.com/FredericoSander/Criando_Artigos_ChatGpt/blob/main/Artigo.md)
-Você pode acessar o artigo [aqui](https://www.dio.me/articles/banco-de-dados-relacional-o-pilar-da-gestao-de-informacoes-moderna)
+- Você pode acessar o projeto clicando [aqui](https://github.com/FredericoSander/Criando_Artigos_ChatGpt/blob/main/Artigo.md).
+- Você pode acessar o artigo [aqui](https://www.dio.me/articles/banco-de-dados-relacional-o-pilar-da-gestao-de-informacoes-moderna).
 
 ## Autor    
 
